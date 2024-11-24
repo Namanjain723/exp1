@@ -1,0 +1,59 @@
+/.bash_profile' -> '/home/student//.bash_profile"
+
+inputrc' -> '/home/student//.inputrc' .profile -> /home/student//.profile"
+
+student@Lab133-14~
+
+$ mkdir diri dir2
+
+student@Lab133-14-
+
+5 15
+
+diri dir2
+
+student Lab133-14-
+
+S pwd
+
+/home/student
+
+student@Lab133-14-
+
+$ touch filel.txt
+
+student@Lab133-14-
+
+$ 15
+
+diri dir2 filel.txt
+
+student@Lab133-14~
+
+$ touch file2.txt file3.txt file4txt file5.txt
+
+student@Lab133-14~
+
+$ 15
+
+dir1 dir2 filel.txt file2.txt file3.txt file4txt file5.txt
+
+student@Lab133-14~
+
+$ rm dir1
+
+rm: cannot remove 'dir1': Is a directory
+
+student@Lab133-14~
+
+$ rm file1.txt
+
+student@Lab133-14~
+
+$ 15
+
+dir1 dir2 file2.txt file3.txt file4txt files.txt
+
+student@Lab133-14-
+
+$ rm file2.txt file3.txt
